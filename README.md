@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OuadieZerhouni
 - 👀 I’m interested in Programming and software developing;
-- 🌱 I’m currently learning Informatics in the "EST" at Morroco;
-- 💞️ I’m looking to collaborate on web Application designing;
-- 📫 How to reach me : email = "Ouadie.Zerhouni@usmba.ac.ma"
+- 🌱 I’m currently working as Software developer in openFlyers company. 
+- 📫 How to reach me : email = "Ouadie2Zerhouni@gmail.com"
 
 <!---
 OuadieZerhouni/OuadieZerhouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
